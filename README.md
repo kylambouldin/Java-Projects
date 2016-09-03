@@ -19,3 +19,4 @@ This collection consists of mainly games (visual and text-based) and other text-
 * Tip Adder
 * Quadratic Formula
 * Temperature Converter
+* Look and Say Sequence
