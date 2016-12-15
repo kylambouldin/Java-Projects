@@ -1,6 +1,6 @@
 # 10th Grade Java Projects
 
-For my 10th grade IB Computer Science II course, I programmed a collection of random projects to practice my newly learned Java skils and data structures knowledge.
+For my 10th grade IB Computer Science II course, I programmed a collection of random projects to practice my newly learned Java skills and data structures knowledge.
 This collection consists of mainly games (visual and text-based) and other text-based applications
 
 ## Games
